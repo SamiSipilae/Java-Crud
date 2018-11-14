@@ -1,0 +1,16 @@
+CREATE TABLE `game` (
+  `line` int(1) NOT NULL AUTO_INCREMENT,
+  `0` int(1) DEFAULT NULL,
+  `1` int(1) DEFAULT NULL,
+  `2` int(1) DEFAULT NULL,
+  `3` int(1) DEFAULT NULL,
+  `4` int(1) DEFAULT NULL,
+  `5` int(1) DEFAULT NULL,
+  `6` int(1) DEFAULT NULL,
+  `7` int(1) DEFAULT NULL,
+  `8` int(1) DEFAULT NULL,
+  `9` int(1) DEFAULT NULL,
+  PRIMARY KEY (`line`)
+) ENGINE=InnoDB AUTO_INCREMENT=12 DEFAULT CHARSET=utf8;
+
+
